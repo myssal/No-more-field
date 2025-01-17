@@ -7,7 +7,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Collections.Generic;
 using System.Buffers;
-
+using Microsoft.Toolkit.HighPerformance.Extensions;
 namespace AssetStudio
 {
     [Flags]
